@@ -13,3 +13,17 @@
     background-color: rgb(252, 177, 168);
 }
 
+body h1,h2 {
+    background-color: hotpink;
+    font-weight: 200;
+    
+}
+
+body h1 {
+    font-size: 40px;
+}
+
+body h2 {
+    font-size: 25px;
+}
+
