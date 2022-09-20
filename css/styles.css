@@ -1,0 +1,10 @@
+.food {
+    border-radius: 25px;
+    width: 500px;
+    height: auto;
+    border: 5px solid rgba(19, 21, 16, 0.692);
+}
+
+.ingredients li {
+    font-family: Cursive, sans-serif;
+}
